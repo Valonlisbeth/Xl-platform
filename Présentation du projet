@@ -1,4 +1,4 @@
-= Presentation du projet
+# Presentation du projet
 
 Version française
 *Vision* :
